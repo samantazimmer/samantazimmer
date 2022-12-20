@@ -1,4 +1,4 @@
-name: Generate Datas
+github_user_name: samantazimmer
 
 on:
   schedule: # execute every 12 hours
