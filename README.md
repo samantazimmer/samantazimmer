@@ -20,6 +20,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
  </div>
  
+ 
  ### A arte de programar consiste em organizar e dominar a complexidade. 
  
- ![Snake animation](https://github.com/samantazimmer/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samantazimmer&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
