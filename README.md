@@ -1,4 +1,4 @@
-### Oii, eu sou a Samanta Zimmer 
+### Oii, eu sou a Samanta Zimmer Mello
 
 ##
 
