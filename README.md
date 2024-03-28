@@ -30,8 +30,5 @@ Uma desenvolvedora Full Stack comprometida em entregar soluções eficazes, apli
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanta-zimmer-mello-82184422a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samantazimmer/)
 
-
-
-
-
- 
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samantazimmer&bg_color=212121&color=00fa9a&line=8a8a8a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
